@@ -1,0 +1,14 @@
+<templateSet group="user">
+  <template name="container" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;col-lg-5 offset-lg-1 -mt-3 -mb-5&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;h3 class=&quot;section-title&quot;&gt;Brand Monitor&lt;/h3&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;p&gt;If you are interested in websites that use your brand- or trademark in the content of a website or a domain name, our Brand Monitor tool can help. With Brand Monitor, you can search websites based on keywords and use over 150 available filters to further narrow your search. You can select a specific country, only focus on online stores, look for websites with a low Trust Score or choose from the many other options. This feature can be particularly useful in detecting counterfeit activity. The filter is pre-defined with Trust Score and lets you add WHOIS information, to make it easier to search.&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;col-lg-5 -flex -align-items-center&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;img-wrapper -mx-3 -my-1 -mx-lg-0 -my-lg-0 -text-center&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;img class=&quot;-img-fluid -mx-auto -relative -width-9&quot; src=&quot;{{ asset('illustration-30.svg','img') }}&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;col-lg-1&quot;&gt;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;/div&gt;" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="&lt;abbreviation&gt;" value="{% extends &quot;layout/layout--frontend.twig&quot; %}" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,7 @@
+<templateSet group="Dataprovider">
+  <template name="container" value="&lt;div class=&quot;container&quot;&gt;&#10;    &lt;h1&gt;Hello world&lt;/h1&gt;&#10;&lt;/div&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
