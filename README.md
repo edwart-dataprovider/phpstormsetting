@@ -1,0 +1,2 @@
+# phpstormsetting
+PHP shared settings
