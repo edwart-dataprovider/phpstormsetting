@@ -5,7 +5,7 @@
       <option name="Twig" value="true" />
     </context>
   </template>
-  <template name="&lt;abbreviation&gt;" value="{% extends &quot;layout/layout--frontend.twig&quot; %}" toReformat="true" toShortenFQNames="true">
+  <template name="&lt;abbreviation&gt;" value="{% extends &quot;layout/layout--frontend.twig&quot; %}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="Twig" value="true" />
